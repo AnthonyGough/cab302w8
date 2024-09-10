@@ -1,7 +1,7 @@
 package com.example.addressbook.model;
 
 /**
- * Class to create Contact Objects that have firstname, lastname, phone and email attributes
+ * The class to create Contact Objects that have firstname, lastname, phone and email attributes
  */
 public class Contact {
     private int id;
